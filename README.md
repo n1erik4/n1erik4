@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-<img src="./tech-stack.svg" width="100%" />
+<img src="./tech-stack-orbit.svg" width="100%" />
 </div>
 
 <br/>
