@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="62" viewBox="0 0 1040 62">
+  <rect x="0" y="0" width="1040" height="62" rx="14" fill="#1A0F38"/>
+  <rect x="0" y="0" width="6" height="62" rx="3" fill="#7C3AED"/>
+  <circle cx="46" cy="31.0" r="17" fill="#2E1B5E" stroke="#7C3AED" stroke-width="1.4"/>
+  <g transform="translate(34,19.0) scale(1.0)"><path d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0L19.2 12l-4.6-4.6L16 6l6 6-6 6-1.4-1.4z" fill="#7C3AED"/></g>
+  <text x="80" y="32.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="19"
+        font-weight="800" fill="#FFFFFF">Otros proyectos</text>
+  <text x="80" y="49.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5"
+        font-weight="500" fill="#9C8ED6">Other Projects &#183; 其他项目</text>
+</svg>
