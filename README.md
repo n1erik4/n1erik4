@@ -32,28 +32,13 @@
 
 <br/>
 
-<img src="./hdr-featured.svg" width="100%"/>
-
-<br/>
-
-### [Grupo Contreras y Asociados M&M](https://github.com/n1erik4/Grupo-Contreras-M-M-Landing) &nbsp;·&nbsp; [grupocontrerasmm.com](https://grupocontrerasmm.com)
-
-<img src="./project-tags.svg" />
-
-<img src="./icon-es.svg" width="30" style="vertical-align:middle"/> &nbsp;Sitio web corporativo para una empresa de construcción y consultoría. 13 secciones, soporte bilingüe español–inglés mediante **Context API** y diseño responsivo. Desarrollado de forma individual y desplegado con dominio propio.
-
-<img src="./icon-en.svg" width="30" style="vertical-align:middle"/> &nbsp;Corporate website for a construction and consulting firm. 13 sections, Spanish–English bilingual support via **Context API** and responsive design. Built individually and deployed on its own domain.
-
-<img src="./icon-zh.svg" width="30" style="vertical-align:middle"/> &nbsp;为一家建筑与咨询公司独立开发的企业官网，包含 13 个板块，通过 **Context API** 实现西班牙语—英语双语切换，采用响应式设计，并已部署至独立域名。
-
-<br/>
-
 <img src="./hdr-projects.svg" width="100%"/>
 
 <br/>
 
 | Proyecto · Project | Descripción · Description | Stack |
 |---|---|---|
+| **[Grupo Contreras M&M](https://github.com/n1erik4/Grupo-Contreras-M-M-Landing)** · [sitio](https://grupocontrerasmm.com) | Sitio corporativo bilingüe para constructora<br/>Bilingual corporate website for a construction firm | `React 19` `Tailwind 4` `Vite` `i18n` |
 | **[SIREP](https://github.com/JiYat-al/SIREP)** | Gestión de residencias profesionales del ITO<br/>Professional internship management system | `Java` `Swing` `PostgreSQL` `Apache POI` |
 | **[Medicit](https://github.com/ItzelOrtix/Medicit)** | Gestión de citas médicas<br/>Medical appointment management | `React 19` `Tailwind 4` `Vite` `Axios` |
 | **[PlanGo](https://github.com/n1erik4/PlanGo)** | Planificador de viajes asistido por IA<br/>AI-assisted travel planner | `Laravel 12` `React 18` `MySQL` `Leaflet` |
